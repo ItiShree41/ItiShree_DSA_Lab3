@@ -10,7 +10,8 @@ Sample Input: ( [ [ { } ] ] ) )
 Sample Output: The entered Strings do not contain Balanced Brackets
 
 Question 2) Find a pair with a given sum in Binary Search Tree
- ![img](https://github.com/ItiShree41/ItiShree_DSA_Lab3/assets/103059786/3d311274-08fb-4870-a7a0-ca9e653b7871)
+
+![img](https://github.com/ItiShree41/ItiShree_DSA_Lab3/assets/103059786/3d311274-08fb-4870-a7a0-ca9e653b7871)
 
 Sum = 130
 Pair is (60,70)
